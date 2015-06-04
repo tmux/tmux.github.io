@@ -6,7 +6,6 @@ html {
 body {
     font-family: Sans-Serif;
     font-size: 10pt;
-    background-color: white;
 }
 #body-wrapper {
     overflow: auto;
