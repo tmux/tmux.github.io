@@ -1,4 +1,4 @@
-RELEASE=2.2
+RELEASE=2.3
 
 all:
 	(rm -f ss-small-* && \
