@@ -50,7 +50,7 @@ mailing list or IRC channel
 <p>There are some programs to use with tmux
 <a href="https://github.com/search?q=tmux&type=Repositories&ref=simplesearch">
 on GitHub</a> and a
-<a href="http://pragprog.com/book/bhtmux/tmux">book on tmux</a>.</p>
+<a href="https://pragprog.com/book/bhtmux2/tmux-2">book on tmux</a>.</p>
 
 <div id="screenshots">
   <a href="ss-tmux1.png"><img src="ss-small-tmux1.png" alt="Screenshot"/></a>
