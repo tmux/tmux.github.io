@@ -2,9 +2,6 @@ RELEASE=2.4
 
 .PHONY: index.html all
 
-index.html:
-	sed "s/%%RELEASE%%/${RELEASE}/g" index.html.in >index.html
-
 all: index.html
 	(rm -f ss-small-* && \
 		for i in ss-tmux[0-9].png; do \
@@ -13,3 +10,6 @@ all: index.html
 				-gravity center -crop 150x100+0+0 +repage \
 				"ss-small-$${i##ss-}"; \
 		done)
+
+index.html:
+	sed "s/%%RELEASE%%/${RELEASE}/g" index.html.in >index.html
