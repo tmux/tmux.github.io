@@ -32,7 +32,9 @@ the manual</a>.</p>
 
 <p><b><a href="https://github.com/tmux/tmux/releases/download/%%RELEASE%%/tmux-%%RELEASE%%.tar.gz">
 Download tmux %%RELEASE%%</a></b>
-<b><a href="https://raw.githubusercontent.com/tmux/tmux/master/CHANGES">(changelog)</a></b> or
+<b><a href="https://raw.githubusercontent.com/tmux/tmux/master/CHANGES">(changelog)</a></b>, try the
+<b><a href="https://github.com/tmux/tmux/releases/download/2.5/tmux-2.5-rc.tar.gz">
+2.5 release candidate</a></b>, or
 <a href="https://github.com/tmux/tmux">
 get the development version.</a>
 tmux is hosted on
