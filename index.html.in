@@ -33,7 +33,7 @@ the manual</a>.</p>
 <p><b><a href="https://github.com/tmux/tmux/releases/download/%%RELEASE%%/tmux-%%RELEASE%%.tar.gz">
 Download tmux %%RELEASE%%</a></b>
 <a href="https://raw.githubusercontent.com/tmux/tmux/master/CHANGES">(changes)</a>, try the
-<a href="https://github.com/tmux/tmux/releases/download/2.5/tmux-2.5-rc.tar.gz">
+<a href="https://github.com/tmux/tmux/releases/download/2.5/tmux-2.5-rc2.tar.gz">
 2.5 release candidate</a>, or
 <a href="https://github.com/tmux/tmux">
 get the development version.</a>
