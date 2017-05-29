@@ -1,4 +1,4 @@
-RELEASE=2.4
+RELEASE=2.5
 
 .PHONY: index.html all
 
