@@ -5,7 +5,7 @@ html {
 }
 body {
     font-family: Sans-Serif;
-    font-size: 10pt;
+    font-size: 12pt;
 }
 #body-wrapper {
     overflow: auto;
@@ -29,7 +29,7 @@ body {
     margin-top: 0.5em;
     margin-bottom: 0.5em;
     margin-right: 0.5em;
-    border-right: 3px solid black;
+    border-right: 2px solid black;
     text-align: right;
     width: 12em;
     float: left;
